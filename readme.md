@@ -20,6 +20,8 @@ convert(mathml); // => '1 + 2'
 - comprehensive
 - performant
 
+This has been forked from [learningobjectsinc/mathml-to-asciimath](https://github.com/learningobjectsinc/mathml-to-asciimath)
+
 ## License
 
 MIT
